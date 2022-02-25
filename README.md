@@ -20,12 +20,12 @@ You can build these jar files  using the instructions provided in their github r
 
 The [Javacryptotools library](https://github.com/Toporin/Javacryptotools) uses API from the following explorer services:
 * [Blockstream](https://blockstream.com/)
-* Sochain](https://sochain.com/)
-* Fullstack](https://fullstack.cash/)
-* Etherscan](https://etherscan.io/)
-* Rarible](https://rarible.com/)
-* Opensea](https://opensea.io/)
-* Coingecko](https://www.coingecko.com/)
+* [Sochain](https://sochain.com/)
+* [Fullstack](https://fullstack.cash/)
+* [Etherscan](https://etherscan.io/)
+* [Rarible](https://rarible.com/)
+* [Opensea](https://opensea.io/)
+* [Coingecko](https://www.coingecko.com/)
 
 These APIs are used to get info such as balances, NFT name, description and image preview.
 
